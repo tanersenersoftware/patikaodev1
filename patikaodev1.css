@@ -1,0 +1,86 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+
+body{
+	background-image: url(../images/ataturk.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+h1{
+	position: relative;
+	top: 30px;
+	
+	text-align: center;
+	height: 90px;
+	color: darkgreen;
+	font-size: 60px;
+	color: yellow;
+	text-shadow: 2px 1px;
+	
+}
+
+#first{
+position: relative;
+top: 20px;
+}
+
+#second{
+position: relative;
+top: 20px;
+}
+
+#third{
+position: relative;
+top: 20px;
+}
+div{
+	padding: 45px;
+	
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+	font-size: 40px;
+	font-family: sans-serif;
+
+}
+
+ul{
+	list-style-type: none;
+	width: 1400px;
+
+
+}
+ul li{
+	float: left;
+	color: white;
+	padding: 15px;
+	font-size: 20px;
+	position: relative;
+	left: 5.2cm;
+	top: 40px;
+	font-family: ;
+
+	
+}
+ul li a{
+	color: yellow;
+	text-decoration: none;
+
+}
+ul li a:hover{
+	color: skyblue;
+	background-color: ;
+	font-weight: bolder;
+}
+
+#kim{
+	font-size: 15px;
+	position: relative;
+	right: 12.4cm;
+	top: 3cm;
+}
